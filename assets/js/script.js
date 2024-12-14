@@ -38,10 +38,10 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("MxEmEZkzm3ea2v0I1");
+   $("#contact-form").submit(function (event) {
+        emailjs.init("PDfU9Y6cr-py0_fzc");
 
-        emailjs.sendForm("service_iamw7l8","template_u4g9bcn", '#contact-form')
+        emailjs.sendForm("service_haz061a","template_zty815a", '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
                 document.getElementById("contact-form").reset();
