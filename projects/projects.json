@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Machine Learning+IoT Agriculture Aplication",
+    "desc": "I created a website integrated with machine learning YOLO and CNN for detecting maize plant diseases, equipped with IoT for garden monitoring.",
+    "image": "machinelearning",
+    "category": "ml",
+    "links": {
+      "view": "https://youtu.be/j7Gg1ezZ2x4",
+      "code" : "#"
+    }
+  },
+  {
+    "name": "Scale for Impaired people",
+    "desc": "I created a scale with voice output to assist visually impaired people",
+    "image": "timbangantunanetra",
+    "category": "IoT",
+    "links": {
+      "view": "https://youtu.be/OzkTsuf8ZP0?si=4eSnCmkVBd2FLX0G",
+      "code": "https://github.com/Rzqmaulid/ProjekUAS_KelompokEmbedded"
+    }
+  },
+  {
+    "name": "IoT-based Automatic CCTV",
+    "desc": "I created a CCTV that automatically takes photos of objects using ESP32 with a PIR sensor and Firebase as the database.",
+    "image": "CCTViot",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Oil viscosity measuring instrument",
+    "desc": "I created a used cooking oil viscosity detection device using a magnetic sensor for biodiesel based on the Internet of Things",
+    "image": "Minyakjelantah",
+    "category": "noniot",
+    "links": {
+      "view": "https://drive.google.com/file/d/10XY4JHzHkwkrcWHUsKC5IxayRHFiJbly/view?usp=drivesdk",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Heart rate and body temperature monitoring",
+    "desc": "I created a device for detecting heart rate and body temperature using the MAX100 sensor and the Ubidots platform for remote monitoring.",
+    "image": "detakjantung",
+    "category": "IoT",
+    "links": {
+      "view": "https://youtu.be/OPmHnuRuDiU",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Robot Arm IoT",
+    "desc": "I created a 3-DOF robotic arm that can move objects based on their color using inverse kinematics and a website for monitoring.",
+    "image": "arm",
+    "category": "iotweb",
+    "links": {
+      "view": "https://drive.google.com/file/d/1LcbP5hopI0qThSvjhlpOn8ZexdNPaIar/view",
+      "code": "#"
+    }
+  },
+  {
+    "name": "A stove for cooking palm sap and a Brix meter.",
+    "desc": "I created a tool for cooking palm sap (over 100 KG) and an automatic Brix value calculator to process it into palm sugar, based on the Internet of Things.",
+    "image": "kompor nira",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "An automatic laundry machine with receipt printing",
+    "desc": "I developed a machine for automated laundry services, where users simply place their dirty clothes on a scale, input their name, the number of clothes, and the desired laundry service speed. Then, the billing receipt is printed automatically, and the customer data is stored in the owner's database.",
+    "image": "Laundry Automatic",
+    "category": "iotweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "A facial moisture monitoring device.",
+    "desc": "I developed a facial moisture monitoring device using a microE sensor for a clinic, where patient data is stored in a database.",
+    "image": "Moistur skin",
+    "category": "iotweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dam Height Measurement Instruments",
+    "desc": "I am developing a dam height measurement instrument using the US-100 sensor, with the data stored in Google Spreadsheets.",
+    "image": "tinggi bendungan",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Calorie Scale for the Visually Impaired",
+    "desc": "That sounds like a very innovative and helpful solution! A calorie scale for the visually impaired with voice feedback and recommendations via a Telegram bot is an excellent application of technology. If you need assistance with any technical aspects or ideas for further development, feel free to ask!",
+    "image": "timbangan kalori",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Monitoring pH & Nutrisi Tanaman",
+    "desc": "",
+    "image": "phdht",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Absen RFID IoT",
+    "desc": "",
+    "image": "rfid",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/ghozi2908/RFID_Spreadsheet"
+    }
+  },
+  {
+    "name": "Vape",
+    "desc": "",
+    "image": "Vape",
+    "category": "noniot",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Lavw3N25mVqdMbY3mbod74JeZe8zEVYq/view",
+      "code": "https://github.com/ghozi2908/DIY-VAPE"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+ [
+    {
+        "name": "C/C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Wiring",
+        "icon": "https://img.icons8.com/?size=48&id=vhUJBRoeNnwg&format=png&color=000000"
+    }, 
+    {
+        "name": "Soldering",
+        "icon": "https://img.icons8.com/?size=48&id=65576&format=png&color=000000"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Codular",
+        "icon": "assets/images/logo-skill/kodular-logo.png"
+    },
+    {
+        "name": "Fritzing",
+        "icon": "assets/images/logo-skill/fritzing-logo.png"
+    },
+    {
+        "name": "EasyEDA",
+        "icon": "assets/images/logo-skill/easyeda-logo.jpg"
+    },
+    {
+        "name": "Proteus",
+        "icon":"assets/images/logo-skill/proteus_logo.png" 
+    },
+    {
+        "name": "Wokwi",
+        "icon": "assets/images/logo-skill/wokwi-logo.png"
+    },
+    {
+        "name": "Multisim",
+        "icon": "assets/images/logo-skill/multisim-logo.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png&color=000000"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
+    },
+    {
+        "name": "Javascript",
+        "icon": "https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png&color=000000"
+    },
+    {
+        "name": "ArduinoIDE",
+        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
+    },
+    {
+        "name": "Microkntllr",
+        "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "Measurmnt",
+        "icon": "https://img.icons8.com/?size=48&id=3OoorMP0Lvag&format=png&color=000000"
+    },
+    {
+        "name": "ArduinoIDE",
+        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
+    }
+]
