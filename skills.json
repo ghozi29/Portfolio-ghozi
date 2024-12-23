@@ -44,6 +44,10 @@
         "icon": "https://img.icons8.com/?size=48&id=65576&format=png&color=000000"
     },
     {
+        "name": "Measurmnt",
+        "icon": "https://img.icons8.com/?size=48&id=3OoorMP0Lvag&format=png&color=000000"
+    },
+    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
@@ -54,6 +58,34 @@
     {
         "name": "Fritzing",
         "icon": "assets/images/logo-skill/fritzing-logo.png"
+    },
+    {
+        "name": "Microkntllr",
+        "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
+    },
+    {
+        "name": "Raspberry PI",
+        "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png&color=000000"
+    },
+    {
+        "name": "ArduinoIDE",
+        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
+    },
+    {
+        "name": "Matlab",
+        "icon": "https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000"
     },
     {
         "name": "EasyEDA",
@@ -74,33 +106,5 @@
     {
         "name": "UnlockTool",
         "icon": "https://img.icons8.com/?size=48&id=51klKaE0CMrN&format=png&color=000000"
-    },
-    {
-        "name": "Microkntllr",
-        "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
-    },
-    {
-        "name": "Raspberry PI",
-        "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
-    },
-    {
-        "name": "VS Code",
-        "icon": "https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png&color=000000"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
-    },
-    {
-        "name": "Measurmnt",
-        "icon": "https://img.icons8.com/?size=48&id=3OoorMP0Lvag&format=png&color=000000"
-    },
-    {
-        "name": "ArduinoIDE",
-        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
     }
 ]
