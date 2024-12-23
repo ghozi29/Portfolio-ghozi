@@ -4,6 +4,38 @@
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000"
+    },
+    {
+        "name": "Javascript",
+        "icon": "https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png&color=000000"
+    },
+    {
+        "name": "Leaflet JS",
+        "icon": "https://img.icons8.com/?size=48&id=S6rvNbebKM9i&format=png&color=000000",
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=48&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=48&id=3BTBsJs5myRy&format=png&color=000000"
+    },
+    {
+        "name": "JQuery",
+        "icon": "https://img.icons8.com/?size=48&id=HKNzD81eiiSc&format=png&color=000000"
+    },
+    {
+        "name": "JSON",
+        "icon": "https://img.icons8.com/?size=48&id=114474&format=png&color=000000"
+    },
+    {
         "name": "Wiring",
         "icon": "https://img.icons8.com/?size=48&id=vhUJBRoeNnwg&format=png&color=000000"
     }, 
@@ -40,12 +72,20 @@
         "icon": "assets/images/logo-skill/multisim-logo.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/?size=48&id=PndQWK6M1Hjo&format=png&color=000000"
+        "name": "UnlockTool",
+        "icon": "https://img.icons8.com/?size=48&id=51klKaE0CMrN&format=png&color=000000"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png&color=000000"
+        "name": "Microkntllr",
+        "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
+    },
+    {
+        "name": "Raspberry PI",
+        "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
     },
     {
         "name": "VS Code",
@@ -54,34 +94,6 @@
     {
         "name": "Firebase",
         "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/?size=48&id=20909&format=png&color=000000"
-    },
-    {
-        "name": "CSS",
-        "icon": "https://img.icons8.com/?size=48&id=3BTBsJs5myRy&format=png&color=000000"
-    },
-    {
-        "name": "JQuery",
-        "icon": "https://img.icons8.com/?size=48&id=HKNzD81eiiSc&format=png&color=000000"
-    },
-    {
-        "name": "Javascript",
-        "icon": "https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png&color=000000"
-    },
-    {
-        "name": "ArduinoIDE",
-        "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
-    },
-    {
-        "name": "Microkntllr",
-        "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
-    },
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
     },
     {
         "name": "Measurmnt",
