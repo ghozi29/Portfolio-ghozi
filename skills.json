@@ -75,6 +75,10 @@
         "name": "Firebase",
         "icon": "https://img.icons8.com/?size=48&id=62452&format=png&color=000000"
     },
+   {
+        "name": "MQTT",
+        "icon": "https://cdn.icon-icons.com/icons2/3913/PNG/48/mqtt_logo_icon_248421.png"
+    },
     {
         "name": "RTOS",
         "icon": "https://img.icons8.com/?size=48&id=43666&format=png&color=000000"
