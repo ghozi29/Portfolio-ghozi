@@ -6,7 +6,7 @@
 
 //particlesJS.load('particles-js', 'particles.json', function() {
  // console.log('particles.js loaded - callback');
-});
+//});
 
 /* Otherwise just put the config content (json): */
 
@@ -17,7 +17,7 @@
 //const app = express();
 
 // Menyediakan folder 'image' sebagai folder statis
-app.use('./images', express.static('images'));
+//app.use('./images', express.static('images'));
 /*END */
 
 particlesJS('particles-js',
