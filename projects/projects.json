@@ -152,7 +152,7 @@
   {
     "name": "PCB Design",
     "desc": "I designed a PCB for an embedded system device that I have created, which is an automatic laundry service machine, designed with the help of EasyEDA software.",
-    "image": "pcb juan",
+    "image": "pcbjuan",
     "category": "noniot",
     "links": {
       "view": "",
@@ -162,7 +162,7 @@
   {
     "name": "PCB Design",
     "desc": "I designed a PCB for an embedded system device that I previously created, which is a facial skin humidity monitoring tool., designed with the help of EasyEDA software.",
-    "image": "pcb marsha",
+    "image": "pcbmarsha",
     "category": "noniot",
     "links": {
       "view": "",
