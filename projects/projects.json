@@ -138,5 +138,15 @@
       "view": "https://drive.google.com/file/d/1Lavw3N25mVqdMbY3mbod74JeZe8zEVYq/view",
       "code": "https://github.com/ghozi2908/DIY-VAPE"
     }
+  },
+  {
+    "name": "PWM PCB Design",
+    "desc": "I designed a PCB to create an adjustable PWM module, designed with the help of EasyEDA software.",
+    "image": "pcbpwm",
+    "category": "noniot",
+    "links": {
+      "view": "",
+      "code": ""
+    }
   }
 ]
