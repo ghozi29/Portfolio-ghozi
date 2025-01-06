@@ -111,7 +111,7 @@
   },
   {
     "name": "Monitoring pH & Nutrisi Tanaman",
-    "desc": "",
+    "desc": "I am developing a rice plant pH and nutrition monitoring device for remote monitoring, utilizing the Ubidots platform for real-time data interface from sensors.",
     "image": "phdht",
     "category": "IoT",
     "links": {
@@ -121,7 +121,7 @@
   },
   {
     "name": "Absen RFID IoT",
-    "desc": "",
+    "desc": "I have created an attendance system using RFID card tap, where student attendance data is collected in a spreadsheet database.",
     "image": "rfid",
     "category": "IoT",
     "links": {
@@ -131,7 +131,7 @@
   },
   {
     "name": "Vape",
-    "desc": "",
+    "desc": "I am  developing an electronic cigarette using the LGTM microcontroller, which is used to generate PWM signals to activate the coil in the electronic cigarette.",
     "image": "Vape",
     "category": "noniot",
     "links": {
@@ -143,6 +143,26 @@
     "name": "PWM PCB Design",
     "desc": "I designed a PCB to create an adjustable PWM module, designed with the help of EasyEDA software.",
     "image": "pcbpwm",
+    "category": "noniot",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "PCB Design",
+    "desc": "I designed a PCB for an embedded system device that I have created, which is an automatic laundry service machine, designed with the help of EasyEDA software.",
+    "image": "pcb juan",
+    "category": "noniot",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "PCB Design",
+    "desc": "I designed a PCB for an embedded system device that I previously created, which is a facial skin humidity monitoring tool., designed with the help of EasyEDA software.",
+    "image": "pcb marsha",
     "category": "noniot",
     "links": {
       "view": "",
