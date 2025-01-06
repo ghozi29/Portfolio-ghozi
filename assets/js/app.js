@@ -4,8 +4,8 @@
 
 /* To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... */
 
-particlesJS.load('particles-js', 'particles.json', function() {
-  console.log('particles.js loaded - callback');
+//particlesJS.load('particles-js', 'particles.json', function() {
+ // console.log('particles.js loaded - callback');
 });
 
 /* Otherwise just put the config content (json): */
@@ -13,8 +13,8 @@ particlesJS.load('particles-js', 'particles.json', function() {
 /*Coba Ambil gambar dari folder lokal
 */ 
 
-const express = require('express');
-const app = express();
+//const express = require('express');
+//const app = express();
 
 // Menyediakan folder 'image' sebagai folder statis
 app.use('./images', express.static('images'));
