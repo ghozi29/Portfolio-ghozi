@@ -25,7 +25,7 @@
     "image": "CCTViot",
     "category": "IoT",
     "links": {
-      "view": "#",
+      "view": "https://drive.google.com/file/d/1cgP0_j_Jh8Z0bkfla9iFe08-JUpqb_C2/view?usp=sharing",
       "code": "#"
     }
   },
@@ -65,7 +65,7 @@
     "image": "kompor nira",
     "category": "IoT",
     "links": {
-      "view": "#",
+      "view": "https://docs.google.com/spreadsheets/d/1kbFwRm2dIvL4sTmkc7I-FwmIOTaECJo05Vi8aHNm4AA/edit?usp=sharing",
       "code": "#"
     }
   },
@@ -75,7 +75,7 @@
     "image": "Laundry Automatic",
     "category": "iotweb",
     "links": {
-      "view": "#",
+      "view": "https://youtube.com/shorts/OV7VQ8Sk1E0",
       "code": "#"
     }
   },
@@ -85,7 +85,7 @@
     "image": "Moistur skin",
     "category": "iotweb",
     "links": {
-      "view": "#",
+      "view": "https://youtube.com/shorts/iQZWDhPUMXA",
       "code": "#"
     }
   },
@@ -105,7 +105,18 @@
     "image": "timbangan kalori",
     "category": "IoT",
     "links": {
-      "view": "#",
+      "view": "https://drive.google.com/file/d/1UIhPO7rjV9rQOb0EobzwIa6ElULzO7JI/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  ,
+  {
+    "name": "BMI (Body Mass Index) Sale",
+    "desc": "Design of a digital weighing and height measurement device integrated with the BMI formula to determine human body mass, based on a Telegram Bot.",
+    "image": "gambar bmi",
+    "category": "IoT",
+    "links": {
+      "view": "https://drive.google.com/file/d/1Tgg5iu33hDENy1P_-I4dFE9kOKSWKsGd/view?usp=sharing",
       "code": "#"
     }
   },
@@ -125,7 +136,7 @@
     "image": "rfid",
     "category": "IoT",
     "links": {
-      "view": "#",
+      "view": "https://docs.google.com/spreadsheets/d/1UEtds7YTW8GBr8gLY_aUW_o7aLA1fyQJWtbsdDzRAeQ/edit?usp=sharing",
       "code": "https://github.com/ghozi2908/RFID_Spreadsheet"
     }
   },
@@ -140,13 +151,33 @@
     }
   },
   {
+    "name": "Automatic fish feeder and pond quality monitoring device.",
+    "desc": "Design of an automatic fish feeder and pond water quality monitoring device using pH and turbidity sensors, integrated with the BLYNK platform for remote monitoring.",
+    "image": "Pakan Ikan",
+    "category": "IoT",
+    "links": {
+      "view": "https://drive.google.com/file/d/13GN07Whlf8lyjFasZCsyP0nweftsBY6k/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Detection of people using Raspberry Pi.",
+    "desc": "A device for detecting people using YOLO technology, where a buzzer and LED will activate when a person is detected. Raspberry Pi is used to develop the embedded system for this detection device.",
+    "image": "yolo raspi",
+    "category": "noniot",
+    "links": {
+      "view": "https://youtube.com/shorts/CxHNmpfVByc?si=pxowsEUhCNM4bXuh",
+      "code": "#"
+    }
+  },
+  {
     "name": "PWM PCB Design",
     "desc": "I designed a PCB to create an adjustable PWM module, designed with the help of EasyEDA software.",
     "image": "pcbpwm",
     "category": "noniot",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://youtu.be/0Dvpp_XCfM8",
+      "code": "#"
     }
   },
   {
@@ -155,8 +186,8 @@
     "image": "pcbjuan",
     "category": "noniot",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://youtu.be/ntg8qZVeGOc",
+      "code": "#"
     }
   },
   {
@@ -165,8 +196,8 @@
     "image": "pcbmarsha",
     "category": "noniot",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://youtu.be/MBOHlzEAnsY",
+      "code": "#"
     }
   }
 ]
