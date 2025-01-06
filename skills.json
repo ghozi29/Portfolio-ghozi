@@ -68,6 +68,10 @@
         "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
     },
     {
+        "name": "Photovoltaic",
+        "icon": "https://img.icons8.com/?size=48&id=26258&format=png&color=000000"
+    },
+    {
         "name": "MySQL",
         "icon": "https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png&color=000000"
     },
@@ -85,11 +89,11 @@
     },
    {
         "name": "LoRa",
-        "icon": "https://img.icons8.com/?size=100&id=43680&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=43680&format=png&color=000000"
     },
    {
         "name": "BLE",
-        "icon": "https://img.icons8.com/?size=100&id=52506&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=48&id=52506&format=png&color=000000"
     },
     {
         "name": "RTOS",
