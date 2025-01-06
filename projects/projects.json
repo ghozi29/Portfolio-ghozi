@@ -109,7 +109,6 @@
       "code": "#"
     }
   },
-  ,
   {
     "name": "BMI (Body Mass Index) Sale",
     "desc": "Design of a digital weighing and height measurement device integrated with the BMI formula to determine human body mass, based on a Telegram Bot.",
