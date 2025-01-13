@@ -106,7 +106,11 @@
     {
         "name": "ArduinoIDE",
         "icon": "https://img.icons8.com/?size=48&id=13444&format=png&color=000000"
-    },
+    } 
+    {
+        "name": "Nextion",
+        "icon": "https://m.media-amazon.com/images/S/abs-image-upload-na/9/AmazonStores/ATVPDKIKX0DER/4551205750cd023df17bdecd5dbbb3ee.w48.h48.jpg"
+    },,
     {
         "name": "Matlab",
         "icon": "https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png&color=000000"
