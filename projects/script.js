@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "Projects | Portfolio Ghozi Yusuf";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
@@ -105,6 +105,7 @@ getProjects().then(data => {
 })
 // fetch projects end
 
+/*
 // Start of Tawk.to Live Chat
 var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 (function () {
@@ -116,6 +117,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
     s0.parentNode.insertBefore(s1, s0);
 })();
 // End of Tawk.to Live Chat
+*/
 
 // disable developer mode
 document.onkeydown = function (e) {
