@@ -16,9 +16,6 @@ html {
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
-p {
-    text-align: justify;
-}
 body {
   background: #f7f7f7;
   font-family: "Poppins", sans-serif;
