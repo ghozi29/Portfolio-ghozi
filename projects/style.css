@@ -54,7 +54,7 @@ header{
 }
 section{
   min-height: 100vh;
-  padding: 2rem 9%;
+  padding: 1rem 9%;
 }
 .heading{
   font-size: 3.5rem;
@@ -328,7 +328,7 @@ header .navbar ul li a:hover{
     padding-right: 0;
   }
   section{
-    padding: 2rem;
+    padding: 0.5rem;
   }
 }
 /* common media queries ends*/
