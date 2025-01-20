@@ -213,7 +213,7 @@ header .navbar ul li a:hover{
 }
 .work .box-container .box img{
   height: auto;
-  width:100%;
+  width: auto;
   object-fit: cover;
 }
 .work .box-container .box .content{
