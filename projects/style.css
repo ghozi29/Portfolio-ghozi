@@ -212,7 +212,7 @@ header .navbar ul li a:hover{
   border: none;
 }
 .work .box-container .box img{
-  height: auto;
+  height: 100%;
   width: 100%;
   object-fit: cover;
 }
@@ -220,7 +220,8 @@ header .navbar ul li a:hover{
   height: 100%;
   width:100%;
   position: absolute;
-  top:85%; left:0;
+  top:85%; 
+  left:0;
   background:rgba(255, 255, 255, 0.9);
   display: flex;
   flex-direction: column;
