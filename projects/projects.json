@@ -163,7 +163,7 @@
     "name": "Detection of people using Raspberry Pi.",
     "desc": "A device for detecting people using YOLO technology, where a buzzer and LED will activate when a person is detected. Raspberry Pi is used to develop the embedded system for this detection device.",
     "image": "yolo raspi",
-    "category": "pcb",
+    "category": "IoT",
     "links": {
       "view": "https://youtube.com/shorts/CxHNmpfVByc?si=pxowsEUhCNM4bXuh",
       "code": "#"
@@ -193,14 +193,14 @@
     "name": "PCB Design",
     "desc": "I designed a PCB for an embedded system device that I previously created, which is a facial skin humidity monitoring tool., designed with the help of EasyEDA software.",
     "image": "pcbmarsha",
-    "category": "noniot",
+    "category": "pcb",
     "links": {
       "view": "https://youtu.be/MBOHlzEAnsY",
       "code": "#"
     }
   },
   {
-    "name": "The schematic of an Internet of Things (IoT)-based poultry coop monitoring and control device.",
+    "name": "Schematic of a poultry coop monitoring and control device.",
     "desc": "The schematic of an Internet of Things (IoT)-based poultry coop monitoring and control device. This schematic is designed to develop a prototype of a smart poultry coop that can be monitored through Telegram..",
     "image": "skema kandang ayama",
     "category": "skema",
