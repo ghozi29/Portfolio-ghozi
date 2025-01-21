@@ -53,7 +53,7 @@
     "name": "Robot Arm IoT",
     "desc": "I created a 3-DOF robotic arm that can move objects based on their color using inverse kinematics and a website for monitoring.",
     "image": "arm",
-    "category": "iotweb",
+    "category": "IoT",
     "links": {
       "view": "https://drive.google.com/file/d/1LcbP5hopI0qThSvjhlpOn8ZexdNPaIar/view",
       "code": "#"
@@ -73,7 +73,7 @@
     "name": "An automatic laundry machine with receipt printing",
     "desc": "I developed a machine for automated laundry services, where users simply place their dirty clothes on a scale, input their name, the number of clothes, and the desired laundry service speed. Then, the billing receipt is printed automatically, and the customer data is stored in the owner's database.",
     "image": "Laundry Automatic",
-    "category": "iotweb",
+    "category": "IoT",
     "links": {
       "view": "https://youtube.com/shorts/OV7VQ8Sk1E0",
       "code": "#"
@@ -83,7 +83,7 @@
     "name": "A facial moisture monitoring device.",
     "desc": "I developed a facial moisture monitoring device using a microE sensor for a clinic, where patient data is stored in a database.",
     "image": "Moistur skin",
-    "category": "iotweb",
+    "category": "IoT",
     "links": {
       "view": "https://youtube.com/shorts/iQZWDhPUMXA",
       "code": "#"
@@ -163,7 +163,7 @@
     "name": "Detection of people using Raspberry Pi.",
     "desc": "A device for detecting people using YOLO technology, where a buzzer and LED will activate when a person is detected. Raspberry Pi is used to develop the embedded system for this detection device.",
     "image": "yolo raspi",
-    "category": "noniot",
+    "category": "pcb",
     "links": {
       "view": "https://youtube.com/shorts/CxHNmpfVByc?si=pxowsEUhCNM4bXuh",
       "code": "#"
@@ -173,7 +173,7 @@
     "name": "PWM PCB Design",
     "desc": "I designed a PCB to create an adjustable PWM module, designed with the help of EasyEDA software.",
     "image": "pcbpwm",
-    "category": "noniot",
+    "category": "pcb",
     "links": {
       "view": "https://youtu.be/0Dvpp_XCfM8",
       "code": "#"
@@ -183,7 +183,7 @@
     "name": "PCB Design",
     "desc": "I designed a PCB for an embedded system device that I have created, which is an automatic laundry service machine, designed with the help of EasyEDA software.",
     "image": "pcbjuan",
-    "category": "noniot",
+    "category": "pcb",
     "links": {
       "view": "https://youtu.be/ntg8qZVeGOc",
       "code": "#"
