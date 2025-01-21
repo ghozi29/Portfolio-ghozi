@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio Jigar Sable";
+            document.title = "Projects | Portfolio Ghozi Yusuf";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
@@ -104,12 +104,6 @@ getProjects().then(data => {
     showProjects(data);
 })
 // fetch projects end
-
-<script async src='https://d2mpatx37cqexb.cloudfront.net/delightchat-whatsapp-widget/embeds/embed.min.js'></script>
-          var wa_btnSetting = {"btnColor":"#16BE45","ctaText":"WhatsApp Us","cornerRadius":40,"marginBottom":20,"marginLeft":20,"marginRight":20,"btnPosition":"right","whatsAppNumber":"6285776254687","welcomeMessage":"Selamat Siang Bapak Ghozi Yusuf Matdoan","zIndex":999999,"btnColorScheme":"light"};
-          window.onload = () => {
-            _waEmbed(wa_btnSetting);
-          };
 
 
 // disable developer mode
