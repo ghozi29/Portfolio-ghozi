@@ -200,12 +200,72 @@
     }
   },
   {
-    "name": "Schematic of a poultry coop monitoring and control device.",
-    "desc": "The schematic of an Internet of Things (IoT)-based poultry coop monitoring and control device. This schematic is designed to develop a prototype of a smart poultry coop that can be monitored through Telegram..",
+    "name": "Smart chicken coop system schematic.",
+    "desc": "The schematic of an Internet of Things (IoT)-based poultry coop monitoring and control device. This schematic is designed to develop a prototype of a smart poultry coop that can be monitored through Telegram.",
     "image": "skema kandang ayama",
     "category": "skema",
     "links": {
       "view": "https://drive.google.com/file/d/16YZ_RH9m7PuPoDOPB63nYV6tWof-FF6l/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "GPS tracker schematic.",
+    "desc": "An electrical schematic design of a GPS tracker system based on a microcontroller.",
+    "image": "skema gps tracker",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/1YzkigZis0GwRmMC777yji8pDYQomtGS7/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Electrical schematic for height measurement.",
+    "desc": "An electrical schematic for a height measurement system with a maximum reading limit of up to 4.5 meters.",
+    "image": "skema distance",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/1IwwfKYq8sV6PW68x6q1BMfqSqfP8Ab7l/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Electrical schematic for a vape.",
+    "desc": "Electrical schematic for an electronic cigarette design with a PWM system.",
+    "image": "skeam vape",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/11cZoHuWwg3r4fFwKypi92hlqgjsqnAmX/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Electrical schematic for monitoring pH, turbidity, and nutrients.",
+    "desc": "A device for a smart farming system to detect pH, turbidity, and nutrients based on the Internet of Things.",
+    "image": "skema pgtds",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/1khdfFKWr3aV8DqVNrnnGUVafzyfJQAWL/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Electrical schematic for a smart trash bin.",
+    "desc": "A smart trash bin device to detect methane gas content, waste density, and integrated with a solar panel as a power source for the microcontroller.",
+    "image": "skema smart trash",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/1RWG6cAOEfeDJ3w-vgDAqmrJsiRevoaWm/view?usp=sharing",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Schematic for a noise detection system.",
+    "desc": "An electrical schematic for reading noise levels in decibels.",
+    "image": "skema decibel",
+    "category": "skema",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ixbCy-_Re7hhyKPOhNpOdulSVIz8OvaO/view?usp=sharing",
       "code": "#"
     }
   }
