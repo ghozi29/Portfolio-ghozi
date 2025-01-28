@@ -268,5 +268,86 @@
       "view": "https://drive.google.com/file/d/1ixbCy-_Re7hhyKPOhNpOdulSVIz8OvaO/view?usp=sharing",
       "code": "#"
     }
+  },
+  {
+    "name": "Down Counter Mod-15",
+    "desc": "A down counter 15 is a logic gate circuit capable of performing a countdown with a 4-bit value. This circuit is a simplified version of an IC down counter.",
+    "image": "down counter mod15",
+    "category": "skema",
+    "links": {
+      "view": "https://youtu.be/mr0PWi6Rfk4",
+      "code": "#"
+    }
+  },
+  {
+    "name": "**Measurement of PTC and NTC Characteristics**",
+    "desc": "The circuit above is a simple circuit to determine the voltage and current characteristics of NTC and PTC, with the aim of understanding how each sensor works.",
+    "image": "ptc dan ntc",
+    "category": "skema",
+    "links": {
+      "view": "https://youtu.be/VY4eI0UvXMU",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Light sensor module with op-amp",
+    "desc": "It is a design of an op-amp sensor controlled analogically using a comparator op-amp, with the aim of understanding the analog electrical performance before the creation of digital electricity with a microcontroller.",
+    "image": "sensor cahaya",
+    "category": "skema",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "quiz bell",
+    "desc": "A PLC ladder diagram for a quiz bell where the fastest button press activates the buzzer and other buzzers remain off.",
+    "image": "bel cerdascermat plc",
+    "category": "omron",
+    "links": {
+      "view": "https://youtu.be/bOTJgarxXi0",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Automatic timer circuit for star-delta motor",
+    "desc": "A ladder diagram to control the timer in an automatic star-delta motor circuit.",
+    "image": "star delta plc",
+    "category": "omron",
+    "links": {
+      "view": "https://youtu.be/v1lRNc6nGb4",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Timer Light Circuit",
+    "desc": "A ladder diagram for an Omron PLC to activate a light for a certain period when the push button is pressed.",
+    "image": "lampu timer plc",
+    "category": "omron",
+    "links": {
+      "view": "https://youtu.be/IbxIsOnlVY4",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Automatic Traffic Light",
+    "desc": "A ladder diagram to control traffic lights automatically with adjustable timing allows you to control the duration of each light phase (red, yellow, and green) based on your desired timing settings.",
+    "image": "lampu merah plc",
+    "category": "omron",
+    "links": {
+      "view": "https://youtu.be/5qwzZp6f2lw",
+      "code": "#"
+    }
+  },
+  {
+    "name": "PLC Latch Circuit",
+    "desc": "is used to maintain an output (coil) in an ON state until a reset condition is met, even if the triggering input (push button) is no longer active. ",
+    "image": "rangkaian latch plc",
+    "category": "omron",
+    "links": {
+      "view": "https://youtu.be/FxQ-0K26Bm0",
+      "code": "#"
+    }
   }
+  
 ]
