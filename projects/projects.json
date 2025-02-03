@@ -348,6 +348,45 @@
       "view": "https://youtu.be/FxQ-0K26Bm0",
       "code": "#"
     }
+  },
+  {
+    "name": "Remote on-off light control",
+    "desc": "An Internet of Things (IoT) device that can remotely turn a light on and off through a website user interface built using HTML, CSS, and JavaScript, utilizing Firebase as the database.",
+    "image": "lampuiot",
+    "category": "IoT",
+    "links": {
+      "view": "",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Automatic light & fan control",
+    "desc": "A device that can control the on-off state of a fan using an NTC 10K sensor and control the on-off state of a light using an LDR sensor. This device operates automatically based on the applied sensors.",
+    "image": "lampukipasiot",
+    "category": "noniot",
+    "links": {
+      "view": "",
+      "code": "#"
+    }
+  },
+  {
+    "name": "",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": "#"
+    }
+  },
+  {
+    "name": "",
+    "desc": "",
+    "image": "",
+    "category": "",
+    "links": {
+      "view": "",
+      "code": "#"
+    }
   }
-  
 ]
