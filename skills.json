@@ -64,6 +64,10 @@
         "icon": "https://img.icons8.com/?size=48&id=KUGLfaePhFk3&format=png&color=000000"
     },
     {
+        "name": "PLC",
+        "icon": "https://img.icons8.com/?size=48&id=bQbX7tMYRcoT&format=png&color=000000"
+    },
+    {
         "name": "Raspberry PI",
         "icon": "https://img.icons8.com/?size=48&id=13443&format=png&color=000000"
     },
@@ -134,5 +138,9 @@
     {
         "name": "UnlockTool",
         "icon": "https://img.icons8.com/?size=48&id=51klKaE0CMrN&format=png&color=000000"
+    },
+    {
+        "name": "Pneumatic",
+        "icon": "https://img.icons8.com/?size=48&id=69pxBEn8zDta&format=png&color=7950F2"
     }
 ]
