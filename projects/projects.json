@@ -378,5 +378,15 @@
       "view": "#",
       "code": "#"
     }
+  },
+  {
+    "name": "Sequential Lamp Circuit",
+    "desc": "A sequential lamp circuit is a lamp circuit that can only be turned on in order, starting from push button 1 and then push button 2. If it starts from push button 2, the indicator lamp will not turn on.",
+    "image": "lampuberurutan",
+    "category": "listrik",
+    "links": {
+      "view": "https://youtube.com/shorts/e2Wjn7IsAJs",
+      "code": "#"
+    }
   }
 ]
