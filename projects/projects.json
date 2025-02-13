@@ -370,12 +370,12 @@
     }
   },
   {
-    "name": "",
-    "desc": "",
-    "image": "",
-    "category": "",
+    "name": "Flip-Flop Lamp Circuit",
+    "desc": "A single-phase electrical circuit with 2 timers, 2 contactors, and 2 auxiliary relays. Operating principle: The lamps turn on alternately every 3 seconds.",
+    "image": "lampuflipflop",
+    "category": "listrik",
     "links": {
-      "view": "",
+      "view": "#",
       "code": "#"
     }
   }
